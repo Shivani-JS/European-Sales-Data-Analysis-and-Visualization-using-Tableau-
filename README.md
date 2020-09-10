@@ -1,4 +1,9 @@
 # European-Sales-Data-Analysis-and-Visualization-using-Tableau
+### Software Requirement:-
+     --Tableau Desktop 2020.2
+     --Microsoft excel 2016 and above (To preview Dataset in .xlsx Format)
+         
+
 ### Dataset Details:-
 The Dataset consist of details of Sales of European Countries such as UK, Germany, France etc and the specific Customer and Product details.
 The dataset consist of following variables-
